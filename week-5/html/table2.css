@@ -1,0 +1,19 @@
+table{
+    margin: auto;
+    margin-top: 250px;
+    text-align: center;
+    border:2px solid black;
+    width: 600px;
+    border-collapse: collapse;
+    padding: 10px;
+
+
+
+}
+
+td,tr,th{
+        padding: 10px;
+         border:2px solid black;
+         border-collapse: collapse;
+
+}

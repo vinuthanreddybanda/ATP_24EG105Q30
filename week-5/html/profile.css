@@ -1,0 +1,29 @@
+img{
+    width:100px;
+    border-radius: 50%;
+
+}
+table{
+    text-align: center;
+    margin: auto;
+    width: 700px;
+    padding: 20px;
+    border-collapse: collapse;
+ border:5px solid aquamarine;
+ margin-top: 100px;
+
+}
+th,td,tr{
+    text-align: center;
+    padding: 10px;
+}
+
+.h{
+    background-color:rgb(95, 205, 168) ;
+}
+.t1,.t2{
+    background-color: aqua;
+}
+.h2{
+    background-color: aquamarine;
+}

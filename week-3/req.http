@@ -1,0 +1,30 @@
+### Read all products
+GET http://localhost:3000/product-api/products
+
+### Read a product by brand
+GET http://localhost:3000/product-api/products/lenovo
+
+### Create new product
+POST http://localhost:3000/product-api/products
+Content-Type: application/json
+
+{
+    "productId":121,
+    "productName":"Laptop",
+    "price":49999 ,
+    "brand":"lenovo"
+}
+
+### update product
+PUT http://localhost:3000/product-api/products/121
+Content-Type: application/json
+
+{
+    "productId":101,
+    "productName":"Ipad",
+    "price":40000,
+    "brand":"Apple"
+}
+
+###
+DELETE http://localhost:3000/product-api/products/121
