@@ -2,7 +2,7 @@
 
 This repository contains the Week-7 assignments and the major **Capstone Project** developed using the MERN Stack.
 
-Deployed Link: https://capstone-ashen-three.vercel.app/
+Deployed Link:atp-24-eg-105-q30-git-main-vinuthanreddybandas-projects.vercel.app
 
 The project demonstrates:
 
